@@ -1,2 +1,4 @@
 - [Beranda](/)
-- [Jangan Pegang HP](/jangan-pegang-hp)
+- Persiapan Mental
+  - [Paksakan Dirimu](/paksakan-dirimu)
+  - [Jangan Pegang HP](/jangan-pegang-hp)
