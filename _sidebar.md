@@ -1,1 +1,2 @@
 - [Beranda](/)
+- [Jangan Pegang HP](/jangan-pegang-hp)
