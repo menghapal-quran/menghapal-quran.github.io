@@ -13,3 +13,7 @@ Karena kita terbiasa melakukan sesuatu, maka kita dikatakan bisa. Kita bisa meng
 Begitu pula dengan menghapal Quran. Misalnya kita membiasakan (memaksakan diri) untuk menghapal satu halaman baru setiap harinya, maka akan jadi sesuatu yang biasa bagi kita karena kita sudah membiasakannya. Jadi, bukan sesuatu yang rumit lagi.
 
 > Membiasakan : Terus-menerus memaksakan diri melakukan suatu kegiatan **setiap harinya**, tanpa ada bolong-bolong
+
+Terus, kalau kita mulai lelah gimana?
+
+Nah, kan nanti aku bahas tentang [membuat target](./buat-target.md), jadi paksakan diri setiap hari untuk mencapai targetnya. Setelah itu, kamu bisa istirahat. Itu ya, fokus pada pencapaian targetnya terlebih dahulu, baru ngerjakan yang lain.

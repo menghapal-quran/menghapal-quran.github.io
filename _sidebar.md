@@ -1,6 +1,6 @@
 - [Beranda](/)
 - Mempersiapkan Mental
-  - [Jangan Pegang HP](/jangan-pegang-hp)
-  - [Paksakan Dirimu](/paksakan-dirimu)
+  - [Jangan Pegang HP](./jangan-pegang-hp.md)
+  - [Paksakan Dirimu](./paksakan-dirimu)
 - Mulai Menghapal
-  - [Buat Target](/buat-target)
+  - [Buat Target](./buat-target)
