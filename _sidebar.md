@@ -1,4 +1,6 @@
 - [Beranda](/)
-- Persiapan Mental
-  - [Paksakan Dirimu](/paksakan-dirimu)
+- Membangun Mindset
   - [Jangan Pegang HP](/jangan-pegang-hp)
+  - [Paksakan Dirimu](/paksakan-dirimu)
+- Sebelum Menghapal
+  - [Buat Target](/buat-target)
