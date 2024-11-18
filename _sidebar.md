@@ -1,6 +1,6 @@
 - [Beranda](/)
-- Membangun Mindset
+- Mempersiapkan Mental
   - [Jangan Pegang HP](/jangan-pegang-hp)
   - [Paksakan Dirimu](/paksakan-dirimu)
-- Sebelum Menghapal
+- Mulai Menghapal
   - [Buat Target](/buat-target)
