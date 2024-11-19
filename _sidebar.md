@@ -3,4 +3,5 @@
   - [Jangan Pegang HP](./jangan-pegang-hp.md)
   - [Paksakan Dirimu](./paksakan-dirimu)
 - Mulai Menghapal
+  - [Perbanyak Membaca](./perbanyak-membaca)
   - [Buat Target](./buat-target)
