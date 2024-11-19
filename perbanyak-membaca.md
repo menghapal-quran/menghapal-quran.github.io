@@ -10,6 +10,8 @@ Jadi, sebelum menghapal Quran, aku anjurkan buatmu untuk membacanya berulang-ula
 
 Kalau nggak punya waktu untuk mengkhatamkan Quran, setidaknya, halaman yang akan kita hapalkan itu, dibaca terus terlebih dahulu berulang-ulang sampai lancar. Kalau misalnya masih belum bisa membaca dengan lancar, aku sarankan buatmu untuk mengikuti kelas tahsin terlebih dahulu.
 
+> Kelas tahsin intensif, 100 ribu per bulan [klik di sini untuk mendaftar](https://lynk.id/zenhacker/Zdqw1XO)
+
 Aku aja sampai sekarang masih ikut kelas tahsin walaupun di pesantren dulu ketika SMP, SMA, bahkan ketika kuliah, sudah pernah ikut tahsin berkali-kali.
 
 Kenapa tahsin itu penting? Ya supaya kita nggak salah-salah dalam membaca Quran, yang endingnya nanti adalah kita nggak salah dalam menghapalkannya.

@@ -6,6 +6,8 @@ Jadi, usahakan tools-tools yang biasa kamu gunakan di HP, gunakan versi fisiknya
 
 Sehingga, HP ini digunakan hanya ketika ada yang menelpon kita.
 
+> Buat kamu yang sulit melepaskan HP, ebook ini semoga bisa membantumu : [download ebooknya](https://lynk.id/zenhacker/BQ8kwVm)
+
 ## Kenapa Sih Kita Harus Menghindari HP?
 
 Karena di HP ini selalu ada sesuatu yang baru. Coba aja buka media sosial, scroll ke bawah dikit, selalu ada konten-konten terbaru. Akhirnya kan kita nggak bisa lepas dari HP karena selalu penasaran apa konten berikutnya, begitu seterusnya sampai otak kita lelah sendiri.
