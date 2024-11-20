@@ -6,3 +6,4 @@
   - [Perbanyak Membaca](./perbanyak-membaca)
   - [Buat Target](./buat-target)
   - [Realisasi Target](./realisasi-target)
+  - [Mulai Menghapal](./mulai-menghapal.md)
