@@ -7,3 +7,4 @@
   - [Buat Target](./buat-target)
   - [Realisasi Target](./realisasi-target)
   - [Mulai Menghapal](./mulai-menghapal.md)
+  - [Pentingnya Murojaah](./pentingnya-murojaah.md)
