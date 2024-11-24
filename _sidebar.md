@@ -1,4 +1,5 @@
 - [Beranda](/)
+- [Mengapa Menghapal Quran?](./mengapa.md)
 - Mempersiapkan Mental
   - [Jangan Pegang HP](./jangan-pegang-hp.md)
   - [Paksakan Dirimu](./paksakan-dirimu)
