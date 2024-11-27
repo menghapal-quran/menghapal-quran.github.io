@@ -50,3 +50,5 @@ Ingat ya, menuliskan targetnya itu sebelum melaksanakan. Jadi, tulis rencananya 
 - Act : Mengevaluasi pelaksanaan target
 
 Nah lalu jangan lupa untuk melakukan evaluasi. Jika misalnya kita membuat target setiap hari hapalan baru 5 baris dan murojaah 1 halaman, kita evaluasi tiap hari Ahad misalnya, apakah target kita ada yang tidak tercapai? Jika ada, kurangi targetnya. Jika tercapai semua, tingkatkan targetnya.
+
+> Miliki ebook [latihan fokus ala Sun Zi](https://lynk.id/zenhacker/nKLQMVN)

@@ -17,3 +17,5 @@ Begitu pula dengan menghapal Quran. Misalnya kita membiasakan (memaksakan diri) 
 Terus, kalau kita mulai lelah gimana?
 
 Nah, kan nanti aku bahas tentang [membuat target](./buat-target.md), jadi paksakan diri setiap hari untuk mencapai targetnya. Setelah itu, kamu bisa istirahat. Itu ya, fokus pada pencapaian targetnya terlebih dahulu, baru ngerjakan yang lain.
+
+> Ingin memiliki ambisi yang tinggi? [Cek ebooknya](https://lynk.id/zenhacker/4b7JA2v)

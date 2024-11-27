@@ -41,3 +41,5 @@ Kalau misalnya punya hapalan 14 juz, maka idealnya adalah:
 - Minggu: Juz 13 dan Juz 14
 
 Idealnya seperti itu. Tapi, kalau kamu belum sanggup juga nggak papa. Yang penting seperti yang aku sebutkan di awal, konsisten tiap hari. Jangan sampai bolong.
+
+> Udah punya buku murojaah? [Coba cek di sini](https://lynk.id/zenhacker/LPAQ6jo)

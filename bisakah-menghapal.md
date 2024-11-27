@@ -15,3 +15,5 @@ So, apa lagi alasanmu untuk tidak mulai menghapal Quran? Penyebab satu-satunya h
 [ القمر: 17]
 
 "Dan sesungguhnya telah Kami mudahkan Al-Quran untuk pelajaran, maka adakah orang yang mengambil pelajaran? [Al Qamar: 17]"
+
+> Monggo dicek, [kumpulan video motivasi](https://lynk.id/zenhacker/AknKGWq) untuk membuatmu lebih termotivasi
